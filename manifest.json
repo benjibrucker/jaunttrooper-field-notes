@@ -1,0 +1,42 @@
+{
+  "date": "2026-10-12",
+  "questionCount": 50,
+  "files": [
+    {
+      "file": "index.html",
+      "sha256": "2599badf6f2c8eb269e1c2476175f1bf4e76982e0ca34a15d9746e6dbac78d26"
+    },
+    {
+      "file": "portable.js",
+      "sha256": "161069cfb1b2d68cc4e5553a609f8a1048051610dd4c3c1325c71334068da0ec"
+    },
+    {
+      "file": "questionnaire.css",
+      "sha256": "62b3c1aa6116ab98f6b34234b46a7df9bed049a20d379a2e8cc870c12b2d3277"
+    },
+    {
+      "file": "closure.html",
+      "sha256": "a26dab22b2e89bcb67bae15239aa2511e2fa119f2c30d5fd361c7199f540716f"
+    },
+    {
+      "file": "questions.js",
+      "sha256": "fd067ea19f97cb44b4f0e0252d8583c85a068a003908ccaef52f040967643148"
+    },
+    {
+      "file": "recap.html",
+      "sha256": "fb91aee9282cca1bfc1f58306625579c5260708c09523a2aa3af4b80b18b8427"
+    },
+    {
+      "file": "README.md",
+      "sha256": "06a62750a979260b08b3d2afd98c2765d470c2f2a5079dd076760f99301e88fe"
+    },
+    {
+      "file": ".nojekyll",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "file": ".gitattributes",
+      "sha256": "705fd4d6451a31d36b3df7de96f83f30ac976c9b4a6d1e51671d8e2f33e2d0da"
+    }
+  ]
+}
