@@ -480,7 +480,7 @@ window.HANDOFF_QUESTIONS = [
     "id": "H-CONTAINER-STEPS",
     "title": "Opening versus taking from a container",
     "question": "When you took something from a crate, bag, locker or other container, what exact steps did you use? Did a quantity dialog appear, and did the container stay behind after you emptied it?",
-    "why": "Thunderbolt floor GET is recovered in staged cases; container GET remains a separate unsupported call.",
+    "why": "The new Thunderbolt follow-up recovers one selected carried-container transfer and three refusal cases. Floor containers, multiple contents and partial quantities remain separate guarded branches.",
     "evidencePrompt": "Include game edition and confidence. Unsure or never encountered it is useful.",
     "category": "12 October follow-up",
     "pictures": []
@@ -498,7 +498,7 @@ window.HANDOFF_QUESTIONS = [
     "id": "H-NEW-POPULATION",
     "title": "A new creature after waiting",
     "question": "After waiting in a quiet Firestorm area, did a bat or another creature appear? Where did it first appear relative to you, existing creatures and the globe, and did the globe dim on that turn?",
-    "why": "The accepted 501-command globe route is recovered. The next population command requires complete creation, redraw, device and identity comparisons before its guard can be removed.",
+    "why": "A fresh original 502-command route now creates one BAT ahead of the existing rat, with six matched random draws and globe charge 49. A finite copied successor now matches this original transition and preserves both creatures across save/load; later active BAT play remains guarded.",
     "evidencePrompt": "Include game edition and confidence. Unsure or never encountered it is useful.",
     "category": "12 October follow-up",
     "pictures": []
